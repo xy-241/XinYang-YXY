@@ -1,19 +1,19 @@
 ### Hi there, I'm [XinYang!](https://portfolio.yxy.ninja/) 👋👨‍💻
 
 <!--
-**XinYang-YXY/XinYang-YXY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**XinYang-YXY/XinYang-YXY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 I’m currently an intern in a startup, working on a virutual platform, freelancing during free time 
+- 🌱 I’m currently learning ReactJS, Django and .NET
+- 👯 I’m looking to collaborate on small & interesting projects
+- 💬 Ask me about tech & business
+- 📫 How to reach me: hello@yxy.ninja
+- ⚡ Fun fact: doing a 100days 2.4km running challenge - 19% done
+<!--- 🤔 I’m looking for help with -->
+<!--- 😄 Pronouns: ...-->
+
 ### Languages
 <img height="28" src="https://res.cloudinary.com/dchpyunul/image/upload/v1595673000/github/computerLanguage/icons8-python_d35cix.svg"><img height="28" src="https://res.cloudinary.com/dchpyunul/image/upload/v1595672882/github/computerLanguage/icons8-javascript_lzczmt.svg">
 <img height="28" src="https://res.cloudinary.com/dchpyunul/image/upload/v1595672890/github/computerLanguage/icons8-typescript_h5ihq5.svg">
