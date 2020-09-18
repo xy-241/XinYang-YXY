@@ -10,7 +10,7 @@
 - 👯 I’m looking to collaborate on small & interesting projects
 - 💬 Ask me about tech & business
 - 📫 How to reach me: hello@yxy.ninja
-- ⚡ Fun fact: doing a 100days 2.4km running challenge - 19% done
+- ⚡ Fun fact: doing a 100days 2.4km running challenge - 28% done
 <!--- 🤔 I’m looking for help with -->
 <!--- 😄 Pronouns: ...-->
 
