@@ -5,12 +5,12 @@
 
 
 
-- 🔭 I’m currently an intern in a startup, working on a virutual platform, freelancing during free time 
+- 🔭 I’m currently working on a virutual platform at Kindai Engineering, freelancing during free time 
 - 🌱 I’m currently learning ReactJS, Django and .NET
 - 👯 I’m looking to collaborate on small & interesting projects
 - 💬 Ask me about tech & business
 - 📫 How to reach me: hello@yxy.ninja
-- ⚡ Fun fact: doing a 100days 2.4km running challenge - 28% done
+- ⚡ Fun fact: doing a 100days 2.4km running challenge - 40% done [Last updated on 30/09/2020]
 <!--- 🤔 I’m looking for help with -->
 <!--- 😄 Pronouns: ...-->
 
