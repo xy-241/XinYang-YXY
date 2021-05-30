@@ -1,12 +1,13 @@
 ### Hi there, I'm [XinYang!](https://portfolio.yxy.ninja/) 👋👨‍💻
+<hr>
 
 <!--
 **XinYang-YXY/XinYang-YXY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 
 
-- 🔭 I’m currently working on a virutual platform at Kindai Engineering, freelancing during free time 
-- 🌱 I’m currently learning ReactJS, Django and .NET
+- 🔭 I’m currently working at Govtech Singapore, freelancing during free time 
+- 🌱 I’m currently learning AWS - aiming to get AWS Certified Developer Associate, VueJS & data structure and algorithm
 - 👯 I’m looking to collaborate on small & interesting projects
 - 💬 Ask me about tech & business
 - 📫 How to reach me: hello@yxy.ninja
@@ -15,7 +16,8 @@
 <!--- 😄 Pronouns: ...-->
 
 
-
+<br>
+<br>
 
 <p align="center"> 
   Visitor count<br>
