@@ -1,4 +1,4 @@
-### Hi there, I'm [XinYang!](https://portfolio.yxy.ninja/) 👋👨‍💻
+### Hi there, I'm [XinYang!](https://www.linkedin.com/in/xinyang-yu) 👋👨‍💻
 <hr>
 
 <!--
