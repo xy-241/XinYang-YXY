@@ -11,7 +11,7 @@
 - 👯 I’m looking to collaborate on small & interesting projects
 - 💬 Ask me about tech & business
 - 📫 How to reach me: hello@yxy.ninja
-- ⚡ Fun fact: [IPPT Training](https://ippt.yctay.com/?age=21&situpReps=56&pushupReps=52&runMins=11&runSecs=10) - started out with 14points, currently 83points [Last updated on 18/10/2021]
+- ⚡ Fun fact: Working on running 2.4km in 10mins!
 <!--- 🤔 I’m looking for help with -->
 <!--- 😄 Pronouns: ...-->
 
